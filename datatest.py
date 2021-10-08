@@ -13,7 +13,7 @@ print(y, y + 1, y * 2, y ** 2)
 t, f = True, False
 print(type(t))
 
-what = 'what'
+why = 'why'
 tf = 'tf'
 print (what, tf, len(what))
 
