@@ -31,5 +31,5 @@ xs = [3, 1, 2]   # Create a list
 print(xs, xs[2])
 print(xs[-1], xs[-2], xs[-3])
 
-xs[-2] = 'good'
+xs[-2] = 'good',
 print(xs)
